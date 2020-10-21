@@ -8,7 +8,7 @@ Java + Mysql + Servlet + EL/JSTL + Jsp/css/Jquery + Tomcat8
 IntelliJ IDEA
 
 ### 主要功能
-注册 + 登录 + 邮箱验证 + 分页 + 增/删/改/查用户信息
+注册 + 登录 + 记住密码 + 自动登录 + 邮箱验证 + 分页 + 增/删/改/查用户信息
 
 ### 页面展示
 #### 注册页面
