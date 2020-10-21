@@ -1,4 +1,4 @@
-# UserInfoManegement
+# UserInfoManagement
 一个极简化的JavaWeb项目 --- 用户信息管理系统
 
 ### 技术栈
