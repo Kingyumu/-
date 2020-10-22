@@ -2,7 +2,7 @@
 一个极简化的JavaWeb项目 --- 用户信息管理系统
 
 ### 技术栈
-Java + Mysql + Servlet + EL/JSTL + Jsp/css/Jquery + Tomcat8
+Java + Mysql + Servlet + EL/JSTL + Jsp/Css/Js + Tomcat8
 
 ### 工具
 IntelliJ IDEA
